@@ -68,13 +68,13 @@ Each function outputs anonymized `.csv` files and optionally generates `.png` vi
 > This bar chart displays the **distribution of total call center interactions by hour of the day**.
 
 ### 🔹 Talk Channel Distribution
-![Talk Channel Distribution](./talk_analysis_visuals/talk_channel_distribution.png)
+![Talk Channel Distribution](./talk_analysis_visuals/talks_channel_distribution.png)
 
 > This pie chart illustrates the **distribution of communication channels** used in customer interactions (e.g., WhatsApp, Instagram Business, Facebook).
 > Helps identify which platforms are most actively used by the customer support team — enabling better resource allocation and platform strategy.
  
 ### 🔹 Hourly Talk Density by Channel
-![Hourly Talk Density by Channel](./talk_analysis_visuals/hourly_talk_density_by_channel.png)
+![Hourly Talk Density by Channel](./talk_analysis_visuals/channel_hourly_talk_heatmap.png)
 
 > This heatmap illustrates **which communication channels (e.g., WhatsApp, Instagram, Facebook)** are more active at specific hours of the day.
 > It helps identify time-based channel usage trends, enabling efficient staffing and scheduling of support teams across platforms.
